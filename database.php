@@ -4,7 +4,7 @@ class Database
     private static $dbName = 'mbsimmon355wi20' ;
     private static $dbHost = '10.8.30.49' ;
     private static $dbUsername = 'mbsimmon355wi20';
-    private static $dbUserPassword = 'cis355wi202';
+    private static $dbUserPassword = 'password'; //password removed
      
     private static $cont  = null;
      
